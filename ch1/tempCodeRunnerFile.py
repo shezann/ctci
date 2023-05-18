@@ -1,0 +1,1 @@
+len(str2) - len(str1) > 1
